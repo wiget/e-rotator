@@ -1,1 +1,4 @@
 # e-rotator
+
+Demo repository
+===============
